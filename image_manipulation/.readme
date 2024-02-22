@@ -1,1 +1,4 @@
-i
+The programs are all written in Python.  The sample image, 3.JPG, is used in the videos; however you can use any image file
+with an appropriate file extension inside the program.<br>
+The fits_manip.py program uses astropy to import a FITS file and then manipulate it.  I have included several FITS files in the
+repository so that you can try it on more than just the moon.
